@@ -1,0 +1,24 @@
+$font_path: "../utopia/fonts/";
+@font-face {
+  font-family: AlternateBecker2;
+  src: url($font_path+"AlternateBecker2-Regular.ttf") format("truetype");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: HarmoniaSansProCyr-SemiBd;
+  src: url($font_path+"HarmoniaSansProCyr-SemiBd.ttf") format("truetype");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: HarmoniaSansProCyr-Bold;
+  src: url($font_path+"HarmoniaSansProCyr-Bold.ttf") format("truetype");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: HarmoniaSansProCyr-Regular;
+  src: url($font_path+"HarmoniaSansProCyr-Regular.ttf") format("truetype");
+  font-weight: 400;
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icn_search</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home-1.0" transform="translate(-1294.000000, -50.000000)">
+            <g id="content" transform="translate(170.000000, 46.000000)">
+                <g id="icons" transform="translate(1124.000000, 4.000000)">
+                    <g id="icn_search">
+                        <path d="M0.5,21 C0.5,32.3234973 9.67727244,41.5 21,41.5 C32.3234973,41.5 41.5,32.3227276 41.5,21 C41.5,9.67650267 32.3227276,0.5 21,0.5 C9.67650267,0.5 0.5,9.67727244 0.5,21 Z" id="Rectangle-5" stroke="#E7E7E7"></path>
+                        <g id="search" transform="translate(15.000000, 15.000000)" stroke="#111111">
+                            <circle id="Oval-2" cx="5.5" cy="5.5" r="5.5"></circle>
+                            <path d="M9.5,9.5 L11.6231056,11.6231056" id="Line" stroke-linecap="square"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
