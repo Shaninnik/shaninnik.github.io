@@ -105,7 +105,7 @@ module.exports = (env, options) => {
       new HtmlWebpackPlugin({
         filename: "utopia/index.html",
         baseUrl: process.env.NODE_ENV == 'development'?'/':'./',
-        template: './utopia/index.html',
+        template: './utopia/template.html',
         chunks: ['utopia'],
         inject: false
       })
