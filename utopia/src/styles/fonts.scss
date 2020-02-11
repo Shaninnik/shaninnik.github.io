@@ -22,3 +22,21 @@ $font_path: "/utopia/fonts/";
   src: url($font_path+"HarmoniaSansProCyr-Regular.ttf") format("truetype");
   font-weight: 400;
 }
+
+@font-face {
+  font-family: Tofino-Bold;
+  src: url($font_path+"Tofino-Bold.otf");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: Tofino-Black;
+  src: url($font_path+"Tofino-Black.otf");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: Tofino-Ultra;
+  src: url($font_path+"Tofino-Ultra.otf");
+  font-weight: 400;
+}
